@@ -1,1 +1,6 @@
-hello.c
+main()
+{
+
+printf('hello');
+}
+
